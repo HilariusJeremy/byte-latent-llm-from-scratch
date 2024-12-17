@@ -1,1 +1,1 @@
-"# byte-latent-llm-from-scratch" 
+Building Byte-Latent LLM from First Principles
